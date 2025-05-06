@@ -1,4 +1,4 @@
-module github.com/sphinx-core/go
+module github.com/lendral3n/go
 
 go 1.23.0
 
@@ -7,6 +7,7 @@ require (
 	github.com/gorilla/websocket v1.5.3
 	github.com/holiman/uint256 v1.3.2
 	github.com/kasperdi/SPHINCSPLUS-golang v0.0.0-20231223193046-84468b93f7e9
+	github.com/sphinx-core/go v0.0.0-20250503044037-030c5d06c464
 	github.com/syndtr/goleveldb v1.0.0
 	golang.org/x/crypto v0.35.0
 )
